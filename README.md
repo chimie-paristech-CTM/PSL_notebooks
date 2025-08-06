@@ -12,7 +12,14 @@ https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob
 - Variational autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/generative_models/VAE.ipynb)
 - Bayesian optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/Bayesian_optimization_tutorial.ipynb)
+- Bayesian optimization for reaction optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/BayBE_intro.ipynb)
+
+- Bayesian optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/.ipynb)
+- Bayesian optimization for reaction optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/Bayesian_optimization_tutorial.ipynb)
 
 # Acknowledgement
 
