@@ -16,7 +16,14 @@ https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob
 - Bayesian optimization for reaction optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/BayBE_intro.ipynb)
 
+Additionally, preliminary notebooks on the following topics are also provided:
+- (Quick recap of) Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_python.ipynb) 
+- Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_pandas.ipynb) 
+- Plotting with Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_plotting.ipynb)  
+
 # Acknowledgement
 
-For the construction of this repository, I am deeply indebted to Philippe Schwaller, whose outstanding course at EPFL — [AI4Chem](https://schwallergroup.github.io/ai4chem_course/) — served as a major source of inspiration and material. Several components of these notebooks were directly adapted and/or expanded from his work. I am grateful for his open sharing of resources and 
-his pioneering contributions to machine learning in chemistry.
+For the construction of this repository, I am deeply indebted to Philippe Schwaller, whose outstanding course at EPFL — [AI4Chem](https://schwallergroup.github.io/ai4chem_course/) — served as a major source of inspiration and material. Several components of these notebooks were directly adapted and/or expanded from his work. I am grateful for his open sharing of resources and his pioneering contributions to machine learning in chemistry.
