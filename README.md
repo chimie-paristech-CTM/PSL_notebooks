@@ -7,6 +7,10 @@ designed to accompany lectures and workshops at Chimie ParisTech – PSL, and ai
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/cheminformatics/intro_to_cheminformatics.ipynb)
 - Machine learning for chemistry [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/ML_fundamentals/ml_fundamentals.ipynb)
+- Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/unsupervised_learning/Clustering.ipynb)
+- Dimensionality Reduction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/unsupervised_learning/DimensionalityReduction.ipynb)
 - Graph neural networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/GNN/intro_to_GNNs.ipynb)
 - Variational autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
@@ -22,7 +26,13 @@ https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob
 - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_pandas.ipynb) 
 - Plotting with Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_plotting.ipynb)  
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/essentials/essentials_plotting.ipynb)
+
+Finally, some applications/case-studies are also provided:
+- Paladium dimer discovery through unsupervised learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/unsupervised_learning/palladium_dimers_discovery.ipynb)
+- Demonstration ChemProp [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/GNN/chemprop_demonstration.ipynb)
 
 # Acknowledgement
 
