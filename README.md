@@ -19,6 +19,8 @@ https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/Bayesian_optimization_tutorial.ipynb)
 - Bayesian optimization for reaction optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/BayBE_intro.ipynb)
+- Bayesian optimization for reaction optimization with hidden-space featurization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chimie-paristech-CTM/PSL_notebooks/blob/main/bayesian_optimization/tutorial_HSF_representations.ipynb)
 
 Additionally, preliminary notebooks on the following topics are provided:
 - (Quick recap of) Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
